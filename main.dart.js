@@ -85208,7 +85208,7 @@ break
 case 6:case 1:return A.F(q,r)
 case 2:return A.E(o.at(-1),r)}})
 return A.G($async$wR,r)},
-LW(a){var s,r,q=null,p=A.b([A.bt(a.b,q,q,q,B.Uc,q,q),B.yU,A.bt("\ud83d\udccd Direcci\xf3n: "+a.c,q,q,q,B.kP,q,q),B.yX,A.bt("\ud83d\udcdd Descripci\xf3n: "+a.d,q,q,q,B.kP,q,q),B.yX,A.bt("\ud83d\udcb2 Precio por noche: "+a.e,q,q,q,B.kP,q,q),B.yU],t.p)
+LW(a){var s,r,q=null,p=A.b([A.bt(a.b,q,q,q,B.Uc,q,q),B.yU,A.bt("\ud83d\udccd Direcci\xf3n: "+a.c,q,q,q,B.kP,q,q),B.yX,A.bt("\ud83d\udcdd Descripci\xf3n: "+a.d,q,q,q,B.kP,q,q),B.yX,A.bt("\ud83d\udcb2 Precio por noche: "+a.e+" \u20ac",q,q,q,B.kP,q,q),B.yU],t.p)
 if(this.e!=null){s=this.r
 r=A.a3k(s?B.jv:B.nl,q,q)
 p.push(new A.e7(B.fb,q,q,A.aHm(r,A.bt(s?"Eliminar de Favoritos":"A\xf1adir a Favoritos",q,q,q,q,q,q),this.ga2f(),A.IX(q,q,B.tQ,q,q,q,q,q,q,B.k,q,q,q,q,q,q,q,B.zp,q)),q))}return A.cD(p,B.ay,B.y,B.W)},
